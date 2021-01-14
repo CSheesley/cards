@@ -1,6 +1,8 @@
 # Cards
 
 **TODO: Add description**
+Intro to Elixir - a project where we can create, shuffle, and deal a deck of cards.
+https://www.udemy.com/course/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/
 
 ## Installation
 
